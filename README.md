@@ -1,6 +1,6 @@
 # Dependency Checker Setup
 
-A tool for VRChat avatar creators to shipwith their avatar to insure custumers install the correct Dependencys for the project. The dependency checker confirms that a buyer has the right Unity version, the correct build platform, and all the required VPM packages, and it helps them install anything that is missing.
+A tool for VRChat avatar creators to ship with their avatars to ensure customers install the correct dependencies for the project. The Dependency Checker verifies that a buyer has the correct Unity version, the correct build platform, and all required VPM packages. It also helps them install anything that is missing.
 
 ## Requirements
 
