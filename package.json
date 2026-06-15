@@ -1,0 +1,22 @@
+{
+  "name": "dev.terrorized.dependencycheckersetup",
+  "displayName": "Dependency Checker Setup",
+  "version": "1.0.0",
+  "description": "License, configure and install the Terrorized Dependency Checker into your project.",
+  "url": "https://github.com/iTerrorized/dev.terrorized.dependencycheckersetup",
+  "unity": "2022.3",
+  "vpmDependencies": {
+    "dev.terrorized.drm": "^1.2.0"
+  },
+  "keywords": [
+    "Terrorized",
+    "Dependency",
+    "Checker",
+    "VRChat"
+  ],
+  "author": {
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
+  }
+}
