@@ -1,8 +1,6 @@
 # Dependency Checker Setup
 
-A tool for VRChat avatar creators to build and ship a branded Dependency Checker alongside their assets. The checker confirms that a buyer has the right Unity version, the correct build platform, and all the required VPM packages, and it helps them install anything that is missing.
-
-This package is the setup tool itself. It is gated behind Terrorized's DRM licensing. Once you verify your license you can set your creator name, splash image, social links, and the list of required packages, then download and install your own customized Dependency Checker into your project.
+A tool for VRChat avatar creators to shipwith their avatar to insure custumers install the correct Dependencys for the project. The dependency checker confirms that a buyer has the right Unity version, the correct build platform, and all the required VPM packages, and it helps them install anything that is missing.
 
 ## Requirements
 
